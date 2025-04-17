@@ -1,0 +1,10 @@
+streamlit
+streamlit_option_menu
+google-generativeai
+assemblyai
+pypdf
+fpdf
+pdfplumber
+pytesseract
+pdf2image
+opencv-python
